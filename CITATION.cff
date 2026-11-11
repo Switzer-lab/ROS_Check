@@ -1,1 +1,9 @@
-
+cff-version: 1.2.0
+message: "If you use ROS_Check, please cite this software."
+title: "ROS_Check"
+version: "0.9"
+type: software
+authors:
+  - family-names: "Switzer"
+    given-names: "Christopher H."
+license: MIT
